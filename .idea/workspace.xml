@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="959149c3-3bc2-4f34-969a-71cd09f9ab02" name="Changes" comment="Create project and first file.">
+    <list default="true" id="959149c3-3bc2-4f34-969a-71cd09f9ab02" name="Changes" comment="Got the modified version to work on my computer.">
+      <change afterPath="$PROJECT_DIR$/src/HelloJava3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
@@ -48,7 +53,28 @@
       <option name="project" value="LOCAL" />
       <updated>1681144237899</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create project and first file.">
+      <created>1681144606142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681144606142</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create project and first file.">
+      <created>1681144616917</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681144616917</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Got the modified version to work on my computer.">
+      <created>1681225922593</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681225922593</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create project and first file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Create project and first file." />
+    <MESSAGE value="Got the modified version to work on my computer." />
+    <option name="LAST_COMMIT_MESSAGE" value="Got the modified version to work on my computer." />
   </component>
 </project>
